@@ -6,7 +6,7 @@ For the PID, I wrote an Arduino library using <a href="http://brettbeauregard.co
 I also used <a href="https://github.com/jrowberg/i2cdevlib.git">theese libraries</a> by <a href="https://github.com/jrowberg">jrowberg</a> to dialog with the MPU6050, and <a href="https://github.com/aanon4/FlySkyIBus.git">this library</a> by <a href="https://github.com/aanon4">Tim Wilkinson</a> to read the I-BUS data from the RC receiver.
 For controlling the brushless motors I wrote my own little library.
 
-My libraries are available on my Arduino Libraries repo.
+My libraries are available on <a href = "https://github.com/Miguel-San/Arduino-Libraries">my Arduino Libraries repo</a>.
 
 ## Electronics
 There are more connections on the gerber files than on the schematic. This is for flexibility with the PCB as this is a prototype.
